@@ -75,6 +75,5 @@ Mỗi thư mục bài học chứa source code Flutter trong thư mục `lib/` v
    ```
 
 > 💡 Lưu ý: Đảm bảo bạn đã cài đặt đầy đủ [Flutter SDK](https://docs.flutter.dev/get-started/install) và cấu hình thiết bị ảo hoặc kết nối thiết bị thật để chạy ứng dụng.
-```
 
 
