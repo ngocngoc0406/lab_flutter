@@ -57,7 +57,7 @@ Mỗi thư mục bài học chứa source code Flutter trong thư mục `lib/` v
  Cách chạy
  ** bạn có thể copy và dán vào file `README.md` để hướng dẫn người khác cách chạy từng project Flutter:
 
-```markdown
+
 ## 📦 Cách chạy từng bài
 
 1. Mở terminal hoặc VS Code.
