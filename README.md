@@ -14,11 +14,12 @@
 | 06  | Destini        | App kể chuyện tương tác với người dùng.             |
 | 07  | BMI Calculator | Tính chỉ số BMI theo chiều cao và cân nặng.         |
 | 08  | Clima          | App thời tiết, lấy dữ liệu từ OpenWeatherMap API.   |
-| 09  | i am poor      | Hiển thị sự nghèo                                   |
-| 10  | i am rich      | Hiển thị kim cương                                  |
+| 09  | I Am Poor      | Hiển thị sự nghèo.                                  |
+| 10  | I Am Rich      | Hiển thị kim cương.                                 |
 
- 📁 Cấu trúc thư mục
+## 📁 Cấu trúc thư mục
 
+```
 lab_flutter/
 ├── bai_01_mi_card/
 │   ├── lib/
@@ -50,13 +51,9 @@ lab_flutter/
 ├── bai_10_i_am_rich/
 │   ├── lib/
 │   └── README.md
+```
 
-
-Mỗi thư mục bài học chứa source code Flutter trong thư mục `lib/` và có thể có file `README.md` riêng cho từng bài nếu cần mô tả chi tiết.
-
- Cách chạy
- ** bạn có thể copy và dán vào file `README.md` để hướng dẫn người khác cách chạy từng project Flutter:
-
+> 🗂️ Mỗi thư mục bài học chứa source code Flutter trong thư mục `lib/` và có thể có file `README.md` riêng cho từng bài nếu cần mô tả chi tiết.
 
 ## 📦 Cách chạy từng bài
 
@@ -74,6 +71,4 @@ Mỗi thư mục bài học chứa source code Flutter trong thư mục `lib/` v
    flutter run
    ```
 
-> 💡 Lưu ý: Đảm bảo bạn đã cài đặt đầy đủ [Flutter SDK](https://docs.flutter.dev/get-started/install) và cấu hình thiết bị ảo hoặc kết nối thiết bị thật để chạy ứng dụng.
-
-
+> 💡 **Lưu ý:** Đảm bảo bạn đã cài đặt đầy đủ [Flutter SDK](https://docs.flutter.dev/get-started/install) và đã cấu hình thiết bị ảo (emulator) hoặc kết nối thiết bị thật để chạy ứng dụng.
