@@ -14,8 +14,8 @@
 | Destini        | App kể chuyện tương tác với người dùng.             |
 | BMI Calculator | Tính chỉ số BMI theo chiều cao và cân nặng.         |
 | Clima          | App thời tiết, lấy dữ liệu từ OpenWeatherMap API.   |
-| I am Poor      | Hiển thị sự nghèo                                   |
-| I am Rich      | Hiển thị kim cương                                  |
+| I am Poor      | Hiển thị tiêu đề I am Poor và sự nghèo              |
+| I am Rich      | Hiển thị tiêu đề I am Rich kim cương ở giữa	        |
 
 ## 📁 Cấu trúc thư mục chi tiết
 
